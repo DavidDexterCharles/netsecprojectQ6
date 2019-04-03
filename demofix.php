@@ -25,7 +25,7 @@
                 // $password="'or '1'='1";
   
                 $servername = "0.0.0.0";
-                $username = "ice_wolf";
+                $username = "";
                 $dbpassword = "";
                 $dbname = "demoDB";
                 $conn = new mysqli($servername, $username, $dbpassword,$dbname);
